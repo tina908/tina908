@@ -18,7 +18,7 @@
 
 ![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)
 
-![Luvcong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kwonyujin&count_private=true)
+![Luvcong's GitHub stats](https://github-readme-stats.vercel.app/api?username=tina908&count_private=true)
 
 
 <!--
