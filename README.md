@@ -17,6 +17,10 @@
 |Frameworks, Platforms and Libraries|![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) |
 
 ![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)
+
+![Luvcong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kwonyujin&count_private=true)
+
+
 <!--
 **tina908/tina908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
