@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 | |Tech Stack |
 |------|---|
-|테스트1|테스트2|
-|테스트1|테스트2|
-|테스트1|테스트2|
+|Languages & Code Rules|테스트2|
+|MCU|테스트2|
+|AP|테스트2|
+|IDE|테스트2|
+|Server & DB|테스트2|
+|Version Control & Collaboration Tools|테스트2|
+|OS|테스트2|
+|Platform & Library & Package|테스트2|
