@@ -20,6 +20,8 @@
 
 ![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhjbg0821&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Luvcong's GitHub stats](https://github-readme-stats.vercel.app/api?username=tina908&count_private=true)
 
 
