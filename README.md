@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=23777BB4&height=200&text=Yujin%20Kwon's%20github&animation=fadeIn&fontSize=40&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1E1A67&height=200&text=Yujin%20Kwon's%20github&animation=fadeIn&fontSize=40&fontColor=FFFFFF&fontAlignY=40)
 
 
 # 📌 Tech Stack 📌
