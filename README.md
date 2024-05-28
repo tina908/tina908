@@ -22,13 +22,13 @@
 
 | project name |info | link | 수행기관 | year |
 |----|----|------|-------|----|
-|스마트 구급상자 | 사용자의 음성과 상처 인식으로 자동으로 약품을 제공하는 구급상자 |loading... | 디바이스마트 공모전 | 2024 |
-| 잔반 멈춰 | 각각의 학생들의 잔반을 측정하는 모듈과 잔반량에 따른 만족도 평가를 확인하는 어플리케이션 |loading... | 홍익대학교 | 2023 |
-| 재활용 보상 머신 | 재활용품을 넣은 만큼 보상을 출력하는 재활용 보상 머신 |loading... | 홍익대학교 | 2023 |
-| 컴퓨터비전 재활용 구분 프로젝트 | 컴퓨터 비전으로 재활용품을 실시간으로 구분하는 모델 |[Computer-Vision-Recycling-Project](https://github.com/tina908/Computer-Vision-Recycling-Project) | 대한상공회의소 | 2024 |
-| 오징어 게임 영희 프로젝트 | 아두이노와 초음파센서로 만드는 오징어 게임의 영희 |[Squid-Game-Younghee-Project](https://github.com/tina908/Squid-Game-Younghee-Project.git) | 홍익대학교 | 2021 |
-| find me | 미아의 위치를 추적하는 미아방지 팔찌와 위치를 추적하는 어플리케이션 |loading... | 대한상공회의소 | 2024 |
-| RC카 프로젝트 | 어플리케이션으로 조종 가능한 atmega128로 만드는 RC카 |loading... | 대한상공회의소 | 2024 |
+|스마트 구급상자 | TCP/IP 소켓 프로그래밍, RaspberryPi와 Jetson Nano, Arduino로 개발한 상처인식과 음성인식이 가능한 스마트 구급상자 |loading... | 디바이스마트 공모전 | 2024 |
+| 잔반 멈춰 | luetooth 통신과 nfc태그를 활용한 학생들의 잔반을 측정하는 모듈과 잔반량에 따른 급식 만족도 평가를 확인하는 Android Studio로 개발한 어플리케이션 JanbanStop |loading... | 홍익대학교 | 2023 |
+| 재활용 보상 머신 | Arduino와 Fusion 360 3D프린터를 융합하여 만든 재활용품을 넣은 만큼 보상을 출력하는 재활용 보상 머신 |loading... | 홍익대학교 | 2023 |
+| 컴퓨터비전 재활용 구분 프로젝트 | OpenCV와 YOLO를 활용한 컴퓨터 비전으로 재활용품을 실시간으로 구분하는 모델 |[Computer-Vision-Recycling-Project](https://github.com/tina908/Computer-Vision-Recycling-Project) | 대한상공회의소 | 2024 |
+| 오징어 게임 영희 프로젝트 | Arduino와 초음파센서로 만드는 오징어 게임의 영희 |[Squid-Game-Younghee-Project](https://github.com/tina908/Squid-Game-Younghee-Project.git) | 홍익대학교 | 2021 |
+| find me | ArduinoMega와 GPS로 개발한 미아의 위치를 추적하는 미아방지 팔찌와 Android Studio로 개발한 위치를 추적하는 어플리케이션 |loading... | 대한상공회의소 | 2024 |
+| RC카 프로젝트 | Android 어플리케이션으로 조종 가능한 atmega128로 만드는 RC카 |loading... | 대한상공회의소 | 2024 |
 | avr 세탁기 프로젝트 | atmega128로 만드는 세탁기 |loading... | 대한상공회의소 | 2024 |
 | 주차 관제 시스템 | ai로 차량의 번호판을 인식하고 차단기를 올리는 시스템 |[Parking-System](https://github.com/tina908/Parking-System) | 대한상공회의소 | 2024 |
 | 섰다 게임 시뮬레이터 | python으로 만드는 섰다 게임 |loading... | 홍익대학교 | 2023 |
