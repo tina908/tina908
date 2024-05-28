@@ -1,8 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=23777BB4&height=200&text=Welcome!&animation=fadeIn&fontSize=80&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=23777BB4&height=200&text=Yujin%20Kwon's%20github&animation=fadeIn&fontSize=40&fontAlignY=35)
 
-## Hi there 👋
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-soohyeon&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
+## 📌 Tech Stack 📌
 
 | |Tech Stack |
 |------|---|
@@ -18,8 +19,29 @@
 |Office|![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) 	![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) |
 |Frameworks, Platforms and Libraries|![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) |
 
-![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)
+## 📌 My project 📌
+| project name |info | link | 수행기관 | year |
+|----|----|------|-------|----|
+|스마트 구급상자 | 사용자의 음성과 상처 인식으로 자동으로 약품을 제공하는 구급상자 |Smart-First-Aid-Box | 디바이스마트 공모전 | 2024 |
+| 잔반 멈춰 | 각각의 학생들의 잔반을 측정하는 모듈과 잔반량에 따른 만족도 평가를 확인하는 어플리케이션 |Smart-First-Aid-Box | 홍익대학교 | 2023 |
+| 재활용 보상 머신 | 재활용품을 넣은 만큼 보상을 출력하는 재활용 보상 머신 |Smart-First-Aid-Box | 홍익대학교 | 2023 |
+| 컴퓨터비전 재활용 구분 프로젝트 | 컴퓨터 비전으로 재활용품을 실시간으로 구분하는 모델 |[Computer-Vision-Recycling-Project](https://github.com/tina908/Computer-Vision-Recycling-Project) | 대한상공회의소 | 2024 |
+| 오징어 게임 영희 프로젝트 | 아두이노와 초음파센서로 만드는 오징어 게임의 영희 |Smart-First-Aid-Box | 홍익대학교 | 2021 |
+| find me | 미아의 위치를 추적하는 미아방지 팔찌와 위치를 추적하는 어플리케이션 |Smart-First-Aid-Box | 대한상공회의소 | 2024 |
+| RC카 프로젝트 | 어플리케이션으로 조종 가능한 atmega128로 만드는 RC카 |Smart-First-Aid-Box | 대한상공회의소 | 2024 |
+| avr 세탁기 프로젝트 | atmega128로 만드는 세탁기 |Smart-First-Aid-Box | 대한상공회의소 | 2024 |
+| 주차 관제 시스템 | ai로 차량의 번호판을 인식하고 차단기를 올리는 시스템 |Smart-First-Aid-Box | 대한상공회의소 | 2024 |
+| 섰다 게임 시뮬레이터 | python으로 만드는 섰다 게임 시뮬레이터 |Smart-First-Aid-Box | 홍익대학교 | 2023 |
 
+## 📌 learning 📌
+|info | link |
+|------|---|
+|LinuxBSP| https://github.com/tina908/LinuxBSP.git |
+|Python/OpenCV| https://github.com/tina908/Python_OpenCV_Learning.git |
+|![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)|[https://tina90808.wixsite.com/coding](https://tina90808.wixsite.com/coding/blog)|
+
+
+## 📌 My git 📌
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tina908&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Kwon yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tina908&count_private=true)
