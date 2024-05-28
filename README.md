@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=23777BB4&height=200&text=Yujin%20Kwon's%20github&animation=fadeIn&fontSize=40&fontAlignY=35)
 
-
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-soohyeon&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
-## 📌 Tech Stack 📌
+### 📌 Tech Stack 📌
 
 | |Tech Stack |
 |------|---|
@@ -19,7 +18,7 @@
 |Office|![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) 	![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) |
 |Frameworks, Platforms and Libraries|![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) |
 
-## 📌 My project 📌
+### 📌 My project 📌
 | project name |info | link | 수행기관 | year |
 |----|----|------|-------|----|
 |스마트 구급상자 | 사용자의 음성과 상처 인식으로 자동으로 약품을 제공하는 구급상자 |loading... | 디바이스마트 공모전 | 2024 |
@@ -33,7 +32,7 @@
 | 주차 관제 시스템 | ai로 차량의 번호판을 인식하고 차단기를 올리는 시스템 |[Parking-System](https://github.com/tina908/Parking-System) | 대한상공회의소 | 2024 |
 | 섰다 게임 시뮬레이터 | python으로 만드는 섰다 게임 |loading... | 홍익대학교 | 2023 |
 
-## 📌 learning 📌
+### 📌 learning 📌
 |info | link |
 |------|---|
 |LinuxBSP| [LinuxBSP](https://github.com/tina908/LinuxBSP.git) |
@@ -43,7 +42,7 @@
 
 
 
-## 📌 My github 📌
+### 📌 My github 📌
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tina908&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Kwon yujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tina908&count_private=true)
