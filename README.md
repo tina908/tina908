@@ -29,7 +29,7 @@
 | 오징어 게임 영희 프로젝트 | Arduino와 초음파센서로 만드는 오징어 게임의 영희 |[Squid-Game-Younghee-Project](https://github.com/tina908/Squid-Game-Younghee-Project.git) | 홍익대학교 | 2021 |
 | find me | ArduinoMega와 GPS로 개발한 미아의 위치를 추적하는 미아방지 팔찌와 Android Studio로 개발한 위치를 추적하는 어플리케이션 |loading... | 대한상공회의소 | 2024 |
 | RC카 프로젝트 | Android 어플리케이션으로 조종 가능한 atmega128로 만드는 RC카 |loading... | 대한상공회의소 | 2024 |
-| avr 세탁기 프로젝트 | atmega128로 만드는 세탁기 |loading... | 대한상공회의소 | 2024 |
+| avr 세탁기 프로젝트 | atmega128로 만드는 세탁기 |[Washing-Machine-Project](https://github.com/tina908/Washing-Machine-Project.git) | 대한상공회의소 | 2024 |
 | 주차 관제 시스템 | ai로 차량의 번호판을 인식하고 차단기를 올리는 시스템 |[Parking-System](https://github.com/tina908/Parking-System) | 대한상공회의소 | 2024 |
 | 섰다 게임 시뮬레이터 | python으로 만드는 섰다 게임 |loading... | 홍익대학교 | 2023 |
 
