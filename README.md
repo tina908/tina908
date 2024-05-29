@@ -39,6 +39,7 @@
 |info | link |
 |------|---|
 |LinuxBSP| [LinuxBSP](https://github.com/tina908/LinuxBSP.git) |
+|LinuxQt| [Linux-Qt](https://github.com/tina908/Linux-Qt.git) |
 |Python/OpenCV| [Python_OpenCV_Learning](https://github.com/tina908/Python_OpenCV_Learning.git) |
 |iot-socket| [iot-socket-server-client](https://github.com/tina908/iot-socket-server-client.git) / [iot-socket-bluetooth-client](https://github.com/tina908/iot-socket-bluetooth-client.git) |
 |![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)|[https://tina90808.wixsite.com/coding](https://tina90808.wixsite.com/coding/blog)|
