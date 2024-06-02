@@ -26,7 +26,7 @@
 | 잔반 멈춰 | bluetooth 통신과 nfc태그를 활용한 학생들의 잔반을 측정하는 모듈과 잔반량에 따른 급식 만족도 평가를 확인하는 Android Studio로 개발한 어플리케이션 JanbanStop |[Janban-Stop-Project](https://github.com/tina908/Janban-Stop-Project.git) | 홍익대학교 | 2023 |
 | 재활용 보상 머신 | Arduino와 Fusion 360 3D프린터를 융합하여 만든 재활용품을 넣은 만큼 보상을 출력하는 재활용 보상 머신 | [Smart-Recycle-Reward-Machine-Project](https://github.com/tina908/Smart-Recycle-Reward-Machine-Project.git) | 홍익대학교 | 2023 |
 | 컴퓨터비전 재활용 구분 프로젝트 | OpenCV와 YOLO를 활용한 컴퓨터 비전으로 재활용품을 실시간으로 구분하는 모델 |[Computer-Vision-Recycling-Project](https://github.com/tina908/Computer-Vision-Recycling-Project) | 대한상공회의소 | 2024 |
-| 오징어 게임 영희 프로젝트 | Arduino와 초음파센서로 만드는 오징어 게임의 영희 |[Squid-Game-Younghee-Project](https://github.com/tina908/Squid-Game-Younghee-Project.git) | 홍익대학교 | 2021 |
+| 오징어 게임 영희 프로젝트 | Arduino와 움직임 감지 센서로 만드는 오징어 게임의 영희 |[Squid-Game-Younghee-Project](https://github.com/tina908/Squid-Game-Younghee-Project.git) | 홍익대학교 | 2021 |
 | find me | ArduinoMega와 GPS로 개발한 미아의 위치를 추적하는 미아방지 팔찌와 Android Studio로 개발한 위치를 추적하는 어플리케이션 |loading... | 대한상공회의소 | 2024 |
 | RC카 프로젝트 | Android 어플리케이션으로 조종 가능한 atmega128로 만드는 RC카 |[AVR-RC-Car-Project](https://github.com/tina908/AVR-RC-Car-Project.git) | 대한상공회의소 | 2024 |
 | avr 세탁기 프로젝트 | atmega128로 만드는 세탁기 |[Washing-Machine-Project](https://github.com/tina908/Washing-Machine-Project.git) | 대한상공회의소 | 2024 |
