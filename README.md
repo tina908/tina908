@@ -22,7 +22,7 @@
 
 | project name |info | link | 수행기관 | year |
 |----|----|------|-------|----|
-|스마트 구급상자 | TCP/IP 소켓 프로그래밍, RaspberryPi와 Jetson Nano, Arduino로 개발한 상처인식과 음성인식이 가능한 스마트 구급상자 |[smart_first_aid_box](https://github.com/tina908/smart_first_aid_box.git) | 디바이스마트 공모전 | 2024 |
+|스마트 구급상자 | TCP/IP 소켓 프로그래밍, RaspberryPi와 Jetson Nano, Arduino로 개발한 상처인식과 음성인식이 가능한 스마트 구급상자 |[smart_first_aid_box](https://github.com/Eugene821/smart_first_aid_box.git) | 디바이스마트 공모전 | 2024 |
 | 잔반 멈춰 | bluetooth 통신과 nfc태그를 활용한 학생들의 잔반을 측정하는 모듈과 잔반량에 따른 급식 만족도 평가를 확인하는 Android Studio로 개발한 어플리케이션 JanbanStop |[Janban-Stop-Project](https://github.com/tina908/Janban-Stop-Project.git) | 홍익대학교 | 2023 |
 | 재활용 보상 머신 | Arduino와 Fusion 360 3D프린터를 융합하여 만든 재활용품을 넣은 만큼 보상을 출력하는 재활용 보상 머신 | [Smart-Recycle-Reward-Machine-Project](https://github.com/tina908/Smart-Recycle-Reward-Machine-Project.git) | 홍익대학교 | 2023 |
 | 컴퓨터비전 재활용 구분 프로젝트 | OpenCV와 YOLO를 활용한 컴퓨터 비전으로 재활용품을 실시간으로 구분하는 모델 |[Computer-Vision-Recycling-Project](https://github.com/tina908/Computer-Vision-Recycling-Project) | 대한상공회의소 | 2024 |
