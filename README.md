@@ -43,6 +43,7 @@
 |iot-socket| [iot-socket-server-client](https://github.com/tina908/iot-socket-server-client.git) / [iot-socket-bluetooth-client](https://github.com/tina908/iot-socket-bluetooth-client.git) |
 |![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)|[https://tina90808.wixsite.com/coding](https://tina90808.wixsite.com/coding/blog)|
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tina908)](https://solved.ac/tina908/)
 
 # 📌 My github 📌
 
