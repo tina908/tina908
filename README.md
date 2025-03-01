@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=002260&height=200&text=Yujin%20Kwon's%20github&animation=fadeIn&fontSize=40&fontColor=FFFFFF&fontAlignY=40)
 
-
 # 📌 My project 📌
 
 | project name |info | link | 수행기관 | year |
